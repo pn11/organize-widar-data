@@ -130,6 +130,3 @@ data/
         ├── textured_0_v2.jpg
         └── textured_1_v2.jpg
 ```
-
-のように整理する。
-
